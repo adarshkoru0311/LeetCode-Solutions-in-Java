@@ -5,7 +5,5 @@ class Solution {
         int n = str.length;
         int a = str[n-1].length();
         return a;
-        
-        
     }
 }
