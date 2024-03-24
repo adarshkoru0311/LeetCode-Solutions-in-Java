@@ -14,8 +14,6 @@ class Solution {
             f=a[f];
         }
         return s;
-        
-
         // Modifying the array by changing the values to negative
         /*
         int index=0;
