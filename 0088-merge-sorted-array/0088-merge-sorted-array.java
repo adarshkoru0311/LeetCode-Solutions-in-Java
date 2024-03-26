@@ -2,7 +2,6 @@ class Solution {
     public void merge(int[] a, int m, int[] b, int n) {
         
         int x = a.length;
-
         for(int i=0;i<x;i++)
         {
             if(i<m)
